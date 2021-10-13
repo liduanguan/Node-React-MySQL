@@ -36,9 +36,14 @@ CREATE TABLE `employees` (
 
 
 Client side: 
+
 Axios: send request to server
 
+
 Server side:
+
 Express: node.js Web Framework
+
 mysql: database for connect and CRUD
+
 cors: Cross-origin-resource-sharing
