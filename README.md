@@ -49,3 +49,10 @@ Express: node.js Web Framework
 mysql: database for connect and CRUD
 
 cors: Cross-origin-resource-sharing
+
+
+#How to run:
+1. For client side: run "npm start" in client directory. If complied success, your default browser will promot at http://localhost:3000
+2. For server side: run "node index.js" in server directory. "Server running on port 5000" will print in console if success.
+
+You can insert new employee or display current employees in the database.
