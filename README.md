@@ -3,7 +3,9 @@
  
  # Required 
 Node.js
+
 NPM node pagage management
+
 MySQL: Create a database before running the application. 
 You can use any database visual design tool such as mySQL Workbench or sQLyog.
 1. Create a database named employeesystem.
