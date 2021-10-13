@@ -9,13 +9,19 @@ You can use any database visual design tool such as mySQL Workbench or sQLyog.
 1. Create a database named employeesystem.
 2. in employeesystem database, create a employees.
 3. employees table should have the following attributes:
-4. 
+4. Table create:
+
 Field     Type
 id        int NOT NULL
+
 name      text NOT NULL
+
 age       int NOT NULL
+
 country   text NOT NULL
+
 position  text NOT NULL
+
 salary    int NOT NULL
 
 CREATE TABLE `employees` (
